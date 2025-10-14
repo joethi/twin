@@ -1,0 +1,44 @@
+{
+  "full_name": "Jothi Mani Thondiraj",
+  "name": "Jothi",
+  "current_role": "AI/ML Engineer",
+  "location": "Boulder, Colorado",
+  "email": "jothi.thondiraj@colorado.edu",
+  "linkedin": "www.linkedin.com/in/jothi-mani-thondiraj-b2a674104",
+  "specialties": [
+    "Machine Learning",
+    "Deep Learning", 
+    "AI Agents",
+    "RAG Systems",
+    "Data Modeling",
+    "Uncertainty Quantification",
+    "PyTorch",
+    "Scikit-Learn",
+    "Hugging Face",
+    "PostgreSQL",
+    "Langchain",
+    "Azure ML"
+  ],
+  "years_experience": 4,
+  "education": [
+    {
+      "degree": "Master's Degree",
+      "institution": "University of Colorado Boulder",
+      "year": "Recent"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Nureal.ai",
+      "role": "AI Engineer",
+      "description": "Led development of voice-enabled wayfinding application with RAG systems and AI Agents"
+    },
+    {
+      "company": "University of Colorado Boulder",
+      "role": "Graduate Research Assistant", 
+      "description": "Designed and optimized end-to-end deep learning models for NASA simulations, saving $150K in compute costs"
+    }
+  ],
+  "portfolio": "https://www.datascienceportfol.io/nasaaimer2014",
+  "background": "Transitioned from mechanical and aerospace engineering to focus on data science, machine learning, and AI engineering. Brings robust technical background and proven ability to solve complex problems across disciplines."
+} 

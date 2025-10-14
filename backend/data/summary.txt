@@ -1,0 +1,7 @@
+I am an AI/ML Engineer with 4+ years of experience in machine learning and artificial intelligence.
+
+My expertise includes machine learning, deep learning, AI Agents, RAG Systems, data modeling, uncertainty quantification, and proficiency with PyTorch, Scikit-Learn, Hugging Face, PostgreSQL, Langchain, and Azure ML.
+
+Currently, I'm focused on developing voice-enabled wayfinding applications with RAG systems and AI Agents at Nureal.ai.
+
+My background includes leading AI application development, designing NASA simulation models that saved $150K in compute costs, transitioning from mechanical/aerospace engineering to AI/ML, and demonstrating proven ability to solve complex problems across disciplines.
